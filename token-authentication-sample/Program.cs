@@ -8,8 +8,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 
-namespace token_authentication_sample
-{
+namespace TokenAuthenticationSample {
     public class Program
     {
         public static void Main(string[] args)
